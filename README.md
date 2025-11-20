@@ -1,4 +1,4 @@
-Hey there! I’m Jai S. Ramani  
+# Hey there! I’m Jai S. Ramani  
 **Full-Stack Developer | Tech Explorer | AI & ML Enthusiast**
 
 Passionate about crafting modern applications with efficient backends, clean interfaces, and intelligent systems.
@@ -41,8 +41,8 @@ Passionate about crafting modern applications with efficient backends, clean int
 ---
 
 ## 🌐 Connect With Me  
-- **LinkedIn:** _Add your link here_  
-- **Email:** _your email here_  
+- **LinkedIn:** https://www.linkedin.com/in/jai-s-ramani-2948532bb/  
+- **Email:** jaisramani05@gmail.com
 
 ---
 
