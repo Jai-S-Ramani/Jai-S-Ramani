@@ -1,49 +1,86 @@
-# Hey  I’m Jai S. Ramani  
-**Full-Stack Developer | Tech Explorer | AI & ML Enthusiast**
+# Hey 👋 I’m Jai S. Ramani  
+**Data Analyst | AI & ML Enthusiast | Python Developer**
 
-Passionate about crafting modern applications with efficient backends, clean interfaces, and intelligent systems.
+Passionate about turning complex datasets into actionable insights, building interactive dashboards, and leveraging machine learning for data-driven decision-making.
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jai-s-ramani-2948532bb/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaisramani05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jai-S-Ramani)
+[![Profile Views](https://komarev.com/ghpvc/?username=Jai-S-Ramani&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Jai-S-Ramani)
 
 ---
 
 ## 🚀 About Me  
-- 🎓 Pursuing **B.Tech in Computer Science (AI & ML)**  
-- 💻 Full-Stack Developer focused on building fast, scalable, and practical solutions  
-- 🤖 Exploring **AI, OpenCV, Machine Learning**, and automation  
-- 🌐 Constantly learning, improving, and contributing through GitHub  
+- 🎓 Pursuing **B.Tech in Computer Science (AI & ML)** with a major focus on **Data Analytics**
+- 📊 Passionate about **Exploratory Data Analysis (EDA), Statistical Analysis, and Business Intelligence**
+- 🔍 Skilled in transforming raw data into meaningful metrics, visual stories, and executive dashboards
+- 🤖 Applying **Machine Learning & AI** models to uncover trends, anomalies, and predictive forecasts
+- 🌐 Actively working on data science projects, analytics pipelines, and open-source contributions
 
 ---
 
-## 🔧 Tech Stack  
-### **Programming Languages & Frameworks**
+## 📊 Data Analytics & BI Toolkit
+
+### **Data Analysis & Manipulation**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+### **Data Visualization & Business Intelligence**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### **Databases & Querying**
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Machine Learning & AI**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## 💻 Full-Stack & Development Stack  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 🛠 Tools & Platforms  
+## 🛠 Analytics Environments & Tools  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
- 
 
 ---
 
-## 🌐 Connect With Me  
-- **LinkedIn:** https://www.linkedin.com/in/jai-s-ramani-2948532bb/  
-- **Email:** jaisramani05@gmail.com
+## 🎯 What I Do
+- 🔍 **Exploratory Data Analysis (EDA):** Uncovering trends, correlations, outliers, and patterns across multi-source datasets.
+- 🧹 **Data Wrangling & Cleaning:** Preprocessing messy data, handling null values, normalization, and feature engineering.
+- 📈 **Dashboard Design & Reporting:** Building interactive KPIs and business intelligence visuals using Power BI, Tableau & Excel.
+- 🤖 **Predictive Modeling:** Applying regression, classification, and clustering algorithms to solve real-world analytical problems.
 
 ---
 
-### ✨ “Code. Build. Break. Learn. Repeat.”  
+## 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jai-S-Ramani&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jai-S-Ramani&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### ✨ “Without data, you're just another person with an opinion.”
