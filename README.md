@@ -13,38 +13,6 @@ Passionate about turning complex datasets into actionable insights, building int
 
 ---
 
-## 🏆 GitHub Achievements & Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-PRO-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
-  <img src="https://img.shields.io/badge/Degree-B.Tech_AI_%26_ML-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="B.Tech" />
-  <img src="https://img.shields.io/badge/Specialization-Data_Analytics-success?style=for-the-badge&logo=python&logoColor=white" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jai-S-Ramani?achievement=quickdraw&tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" title="Quickdraw - Unlocked" />
-  </a>
-  <a href="https://github.com/Jai-S-Ramani?achievement=yolo&tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO" title="YOLO - Unlocked" />
-  </a>
-  <a href="https://github.com/Jai-S-Ramani?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" title="Pull Shark" />
-  </a>
-  <a href="https://github.com/Jai-S-Ramani?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
-  </a>
-  <a href="https://github.com/Jai-S-Ramani?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" alt="Galaxy Brain" title="Galaxy Brain" />
-  </a>
-  <a href="https://github.com/Jai-S-Ramani?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" alt="Starstruck" title="Starstruck" />
-  </a>
-</p>
-
----
-
 ## 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science (AI & ML)** with a major focus on **Data Analytics**
 - 📊 Passionate about **Exploratory Data Analysis (EDA), Statistical Analysis, and Business Intelligence**
