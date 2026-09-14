@@ -2,4 +2,4 @@
 
 - **Python Ecosystem:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly
 - **Database Tools:** SQL, MySQL Workbench, MongoDB Compass
-- **BI Platforms:** Power BI Desktop, Tableau Public, Microsoft Excel Advanced
+- **BI Platforms:** Power BI Desktop, Tableau Public, Microsoft Excel
