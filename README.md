@@ -78,9 +78,14 @@ Passionate about turning complex datasets into actionable insights, building int
 ## 📊 GitHub Analytics & Activity  
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jai-S-Ramani&show_icons=true&theme=radical&hide_border=true" height="190" alt="GitHub Stats" />
   <a href="https://github.com/Jai-S-Ramani">
-    <img src="https://raw.githubusercontent.com/Jai-S-Ramani/Jai-S-Ramani/main/streak.svg" alt="GitHub Streak" />
+    <img src="https://raw.githubusercontent.com/Jai-S-Ramani/Jai-S-Ramani/main/streak.svg" height="190" alt="GitHub Streak" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-S-Ramani&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
