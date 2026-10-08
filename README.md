@@ -79,7 +79,7 @@ Passionate about turning complex datasets into actionable insights, building int
 
 <p align="center">
   <a href="https://github.com/Jai-S-Ramani">
-    <img src="https://raw.githubusercontent.com/Jai-S-Ramani/Jai-S-Ramani/main/streak.svg?v=447" alt="GitHub Streak" />
+    <img src="https://raw.githubusercontent.com/Jai-S-Ramani/Jai-S-Ramani/main/streak_447.svg" alt="GitHub Streak" />
   </a>
 </p>
 
